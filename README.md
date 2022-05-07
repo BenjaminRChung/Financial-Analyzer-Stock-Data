@@ -5,6 +5,6 @@ Financial News Analyzer using Sentiment Analysis to help people make more inform
 Using Python and Pandas, NLTK, Matplotlib, & Beautiful Soup modules to plot average polarity scores of financial news, compared with several different companies. 
 
 ## Visualizer Example
-The figure compares the sentiment of news data based on Amazon (AMZN), Google (GOOG), and Facebook (FB) over a week long period.
+The figure compares the sentiment of news data based on Amazon (AMZN), Facebook (FB), and Google (GOOG) over a week long period.
 
 ![Sentiment Analysis](https://user-images.githubusercontent.com/54012492/161890180-0919ae2e-73ff-4a6c-a777-60c07ba21989.png)
